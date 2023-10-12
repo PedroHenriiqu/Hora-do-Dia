@@ -1,0 +1,39 @@
+body{
+    background: rgb(75, 185, 232);
+   font: normal 15pt italic;/*Usasse para mudar a fonte e o tamanho da letra*/
+}
+div{
+    text-align: center;
+    padding:8px;
+}
+
+header{
+    color: aliceblue;/*Usasse para mudar a cor da palavra*/
+    text-align: center; /*Sentraliza a """PALAVRA""" no centro da Pagina*/
+
+
+}
+
+section{ /*Os codigos a baixo so ira mudar as o que estiver dentro do "Section"*/
+    background: white; /*Muda a cor de fundo*/
+
+    border-radius: 8px; /*Margem redonda*/
+
+    padding: 15px; /*Almenta ou diminui o comprimento da área para outra também*/
+
+    width: 500px; /*Almenta ou diminui a largura, usasse ele jundo com o comando anterior*/
+
+    margin: auto; /*Centraliza a """CAIXA""" no sentro da Página*/
+
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.947); /*Sombra em volta da CAIXA*/
+
+
+}
+
+footer{
+    color: aliceblue;
+    text-align: center;
+    font-style: italic;/*Muda a fonte da çetra também*/
+
+
+}
